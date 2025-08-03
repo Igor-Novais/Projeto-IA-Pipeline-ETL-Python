@@ -1,0 +1,31 @@
+user_id,user_name,artist_name,play_count
+101,Ana Silva,The Beatles,150
+101,Ana Silva,Queen,120
+101,Ana Silva,Michael Jackson,100
+102,Bruno Costa,The Beatles,160
+102,Bruno Costa,Queen,130
+102,Bruno Costa,Coldplay,40
+103,Carla Dias,The Beatles,80
+103,Carla Dias,Michael Jackson,60
+103,Carla Dias,Queen,70
+104,Daniel Alves,The Beatles,200
+104,Daniel Alves,Adele,20
+104,Daniel Alves,Ed Sheeran,10
+105,Eduarda Lima,The Beatles,180
+105,Eduarda Lima,Queen,150
+105,Eduarda Lima,Michael Jackson,130
+106,Fernando Souza,Justin Bieber,30
+106,Fernando Souza,Taylor Swift,25
+106,Fernando Souza,Dua Lipa,20
+107,Gabriela Mendes,The Beatles,90
+107,Gabriela Mendes,Queen,85
+107,Gabriela Mendes,Michael Jackson,80
+108,Heloísa Neves,The Beatles,110
+108,Heloísa Neves,Queen,95
+108,Heloísa Neves,Coldplay,30
+109,Igor Rocha,The Beatles,75
+109,Igor Rocha,Queen,65
+109,Igor Rocha,Michael Jackson,55
+110,Julia Santos,Justin Bieber,40
+110,Julia Santos,Taylor Swift,35
+110,Julia Santos,Dua Lipa,30
